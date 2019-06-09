@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: WeatherProject1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Bo Kyung
+Implementation-Vendor-Id: com.stard
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/WeatherProj
+ ect1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
